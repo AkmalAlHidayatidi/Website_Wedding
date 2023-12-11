@@ -6,7 +6,3 @@ tubahwarna.onclick = function(){
   heading.style.backgroundColor = 'purple';
   badan.style.backgroundColor = 'purple';
 }
-
-close.onclick = function(){
-  tubahwarna.remove();
-}
